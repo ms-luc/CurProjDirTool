@@ -1,2 +1,2 @@
 # CurProjDirTool
-Basically a cmd substitution for explorer .lnk files
+A cmd substitution for explorer .lnk files
